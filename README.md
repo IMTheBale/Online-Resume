@@ -1,2 +1,3 @@
 # Online-Resume
-<img width="1512" alt="Screenshot 2023-01-24 at 19 27 07" src="https://user-images.githubusercontent.com/103919889/214364761-7fbcd4bc-dd44-4fc7-8266-e53fc9b4c744.png">
+
+<img width="1512" alt="Screenshot 2023-01-24 at 20 13 43" src="https://user-images.githubusercontent.com/103919889/214375391-51d0fc55-0e95-46e0-b7cc-5c0e736d6542.png">
